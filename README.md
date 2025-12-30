@@ -172,61 +172,43 @@ An immersive AR/VR-based language learning platform powered by interactive AI sy
 
 ---
 
-
 ## GitHub Stats
 <div align="center">
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Kathirvelan213&theme=github_dark" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Kathirvelan213&theme=default" 
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathirvelan213&theme=default" />
-</picture>
 
-<picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kathirvelan213&theme=transpe"
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kathirvelan213&theme=default"
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathirvelan213&theme=default" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kathirvelan213&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kathirvelan213&theme=github-dark)
 
 </div>
 
+---
 
-## Most Used Languages
-
+## ✅ Most Used Languages (Fixed)
 <div align="center">
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathirvelan213&layout=compact&theme=github_dark" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=Kathirvelan213&layout=compact&theme=default" 
-    media="(prefers-color-scheme: light)" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathirvelan213&layout=compact&theme=default" />
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathirvelan213&layout=compact&theme=github_dark)
+
+
 </div>
 
 ## Connect With Me
 
 <p align="left">
-<a href="https://github.com/Kathirvelan213" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/Kathirvelan213">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/kathirvelanj" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/kathirvelanj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:kathirvelanj1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:kathirvelanj1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align-"right>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kathirvelan213&color=blue)
 </p>
 
 
